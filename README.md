@@ -1,2 +1,2 @@
 # Python-para-noobs
-Aprendiendo python
+Curso de Python
